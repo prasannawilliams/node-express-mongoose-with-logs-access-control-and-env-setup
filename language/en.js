@@ -1,0 +1,15 @@
+module.exports = {
+    EMAIL_PWD_REQ: 'email and password is required',
+    USER_NOTEXITS: 'User with this email does not exist',
+    INVALID_PASSWORD: "Please enter valid password",
+    WENT_WRONG: 'something went wrong',
+    NO_CUSTOMER_FOUND: 'customer_id not found',
+    NO_BOOKMARKS_FOUND: 'No bookmars for the customer',
+    NO_PHONELIST_FOUND: 'No phone list found',
+    NO_EMAILLIST_FOUND: 'No email list found',
+    NO_DOCUMENTS_FOUND: 'No documents list found',
+    NO_CONTACT_FOUND: 'No contact details found',
+    NO_QUOTES_FOUND: 'No quotes list found',
+    NO_BUILDERS_FOUND: 'No builders list found',
+    INVALID_KEY: 'Invalid Key',
+}
